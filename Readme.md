@@ -18,4 +18,4 @@ If you need help just join our Discord Server (https://discord.gg/7UQz6ygheu)
 
 ### Showcase 
 
-*Soon
+* Soon
