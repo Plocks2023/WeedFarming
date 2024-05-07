@@ -1,7 +1,7 @@
 A simple fivem ESX weed farming script that every server needs.
 
 
-###Required:
+### Required:
 
 Ox_Target
 Ox_Lib
