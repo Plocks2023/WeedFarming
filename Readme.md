@@ -18,4 +18,10 @@ If you need help just join our Discord Server (https://discord.gg/7UQz6ygheu)
 
 ### Showcase 
 
-* Soon
+* [Showcase](https://streamable.com/jtri8s)
+
+===========================================================================
+
+### Version
+
+* 1.0.0
